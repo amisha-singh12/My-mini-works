@@ -6,3 +6,6 @@ Each project represents a milestone 📈 in my learning, and I'm excited to shar
 1. Spotify Clone(frontend)
    
    ![Demo](https://raw.githubusercontent.com/amisha-singh12/My-mini-works/main/spotify/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+
+2. Shoporia (shopping website) 
+   Link-> (https://shoporiaweb.netlify.app/)
